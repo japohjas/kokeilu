@@ -16,7 +16,7 @@
 ```
 
 ### Setting Git Username and Email:
-### ~/gitconfig
+### ~/.gitconfig
 
 ```console
 [user]
